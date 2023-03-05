@@ -313,3 +313,7 @@ src/AdminPanel/wwwroot/content/js/app.js.map
 # Data
 .data/
 /out/
+
+# Helm chart dependencies
+*.tgz
+*.lock
